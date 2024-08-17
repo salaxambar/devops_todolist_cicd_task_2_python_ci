@@ -2,3 +2,4 @@
 extend-ignore = E501, W605, F401, E302, E402, W292
 exclude =
     __pycache__, .venv/
+
